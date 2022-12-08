@@ -5,6 +5,8 @@ https://www.canva.com/design/DAFUJiZvCRg/IvV2qxPodWqT_NPBrDj7jA/edit?utm_content
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seo-asif" alt="seo-asif" /></a> </p>
 
+I'm a combination of Web developer and SEO expert, which is a very unique skill.My passion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
+
 - 🔭 I’m currently working on [Event News Website](https://www.nexteventnews.com)
 
 - 🌱 I’m currently learning **Jquery,Java react**
