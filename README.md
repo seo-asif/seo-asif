@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
 <h3 align="center">A Passionate Senior Web Developer & SEO Expert</h3>
-![github-large](https://github.com/seo-asif/banner/blob/7331ce6a193ea03eddb179caef8d5b32448d9658/banner.png)
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[!github-large](https://github.com/seo-asif/banner/blob/7331ce6a193ea03eddb179caef8d5b32448d9658/banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seo-asif&label=Profile%20views&color=0e75b6&style=flat" alt="seo-asif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seo-asif" alt="seo-asif" /></a> </p>
