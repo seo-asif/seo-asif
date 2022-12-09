@@ -1,10 +1,6 @@
 <p><a href="https://github.com/seo-asif" target="_blank" rel="noreferrer"> <img src="https://github.com/seo-asif/seo-asif/blob/main/bb.png" alt="banner" /> </a> </p>
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
 <h3 align="center">A Passionate Senior Web Developer & SEO Expert</h3>
-<p><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="xd" /> </a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=seo-asif](https://github.com/seo-asif/banner/blob/7331ce6a193ea03eddb179caef8d5b32448d9658/banner.png)" alt="seo-asif" /></a> </p>
-
 I'm a combination of Web developer and SEO expert, which is a very unique skill.My passion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
 
 - 🔭 I’m currently working on [Event News Website](https://www.nexteventnews.com)
