@@ -6,7 +6,7 @@ I'm a combination of Web developer and SEO expert, which is a very unique skill.
 
 - 🔭 I’m currently working on [Event News Website](https://www.nexteventnews.com)
 
-- 🌱 I’m currently learning **Jquery,Java react**
+- 🌱 I’m currently learning **JavaScript react**
 
 - 👯 I’m looking to collaborate on [Learning Crypto Technologies](https://www.learncrypto.com)
 
