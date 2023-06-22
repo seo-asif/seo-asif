@@ -1,7 +1,7 @@
 <p><a href="https://github.com/seo-asif" target="_blank" rel="noreferrer"> <img src="https://github.com/seo-asif/seo-asif/blob/main/ab.png" alt="banner" /> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seo-asif&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seo-asif&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> </p>
 <h3 align="center">A Passionate Senior Web Developer & SEO Expert</h3>
 I'm a combination of Web developer and SEO expert, which is a very unique skill.My passion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
 
