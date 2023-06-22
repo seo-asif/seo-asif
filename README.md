@@ -1,4 +1,5 @@
 <p><a href="https://github.com/seo-asif" target="_blank" rel="noreferrer"> <img src="https://github.com/seo-asif/seo-asif/blob/main/ab.png" alt="banner" /> </a> </p>
+
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
 <h3 align="center">A Passionate Senior Web Developer & SEO Expert</h3>
 I'm a combination of Web developer and SEO expert, which is a very unique skill.My passion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
@@ -47,3 +48,15 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-asif&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seo-asif&show_icons=true&locale=en&layout=compact" alt="seo-asif" /></p>
+
+[![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seo-asif&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=seo-asif)  
+
+![Profile views](https://gpvc.arturio.dev/seo-asif)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seo-asif)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=seo-asif)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo-asif)](https://github.com/anuraghazra/github-readme-stats)
