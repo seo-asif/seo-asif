@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seo-asif&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> 
-<a href="https://wakatime.com/@4c3b2983-750a-41d6-87f7-19c74c2b7b8e"><img src="https://wakatime.com/badge/user/4c3b2983-750a-41d6-87f7-19c74c2b7b8e.svg" alt="Total time coded since Jun 23 2023" /></a></p>
-<h3 align="center">A Passionate Senior Web Developer & SEO Expert</h3>
-I'm a combination of Web developer and SEO expert, which is a very unique skill.My passion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
+
+<h3 align="center">A Passionate React Developer & SEO Expert</h3>
+I'm a combination of Web & software developer and SEO expert, which is a very unique skill.My pasion is about solving errors & making customized responsive websites. Keyword research, google ranking, On page & technical SEO with 100% client satisfaction is my other goal.I love to solve real-tech problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created top quality websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress(Elementor Pro, Woocommerce, Crocoblock,Wp-rocket) Semrush, Ahrefs, Google Search Console , Canva & photoshop.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
