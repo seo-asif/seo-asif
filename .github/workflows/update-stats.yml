@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: asif064/waka-readme-stats@master 
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
