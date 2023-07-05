@@ -1,4 +1,4 @@
-<p><a href="https://github.com/seo-asif" target="_blank" rel="noreferrer"> <img src="https://github.com/seo-asif/seo-asif/blob/main/ab.png" alt="banner" /> </a> </p>
+<p><a href="https://github.com/seo-asif" target="_blank" rel="noreferrer"> <img src="https://github.com/seo-asif/seo-asif/blob/master/ab.png" alt="banner" /> </a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Asif Mosharraf</h1>
