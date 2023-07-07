@@ -47,9 +47,8 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 
 <br />
 
-## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seo-asif&show_icons=true&locale=en&layout=compact" alt="seo-asif" /></p>
+## GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seo-asif&show_icons=true&locale=en&theme=transparent" alt="seo-asif" /></p>
 
@@ -60,14 +59,9 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seo-asif)](https://github.com/ryo-ma/github-profile-trophy)
 
-```text
-🌞 Morning                 13 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-🌃 Daytime                 96  commits        ███████████░░░░░░░░░░░░░░   44.78 % 
-🌆 Evening                135  commits        ████████░░░░░░░░░░░░░░░░░   31.95 % 
-🌙 Night                   57 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-```
+<p align="center"><a target="_blank" rel="noreferrer" href="https://github-readme-stats.vercel.app/api/wakatime?username=seo-asif%22%3E" <img src="https://github-readme-stats.vercel.app/api/wakatime?username=seo-asif" alt="Total time coded since Jul 07 2023" /></a></p>
 
-
+[![ASif Mosharraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asif064)](https://github.com/seo-asif/github-readme-stats)
 
 
 
