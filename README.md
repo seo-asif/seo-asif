@@ -12,8 +12,6 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 
 - 🔭 I’m currently working on [TheExamly](https://www.theexamly.com)
 
-- 🌱 I’m currently learning **Typescripts**
-
 - 👯 I’m looking to collaborate on [Learning Crypto Technologies](https://www.learncrypto.com)
 
 - 🤝 I’m looking for help with [Data Manupulation](https://www.Bizdatainsights.com)
@@ -23,7 +21,6 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 - 💬 Ask me about **SEO & audit page, website problems , website creation,**
 
 - 📫 How to reach me **Email: asif064@gmail.com**
-
 
 - ⚡ Fun fact **I can work 20 hours non stop**
 
@@ -35,17 +32,17 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 
 
 
+
+
 <h2>My stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><br>JavaScript
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -59,25 +56,24 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Sass" />
       <br>NextJS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       <br>redux
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Sass" /><br>TypeScript
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Laravel" />
+      <br>Express
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Laravel" />
-      <br>Docker
     </td>
   </tr>
   <tr>
@@ -117,10 +113,9 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="jQuery" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="jQuery" />
-      <br>Vercel
-    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <br>Prettier
   </tr>
  <tr>
     </td>
@@ -155,17 +150,18 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Sass" />
       <br>Material UI
     </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Sass" />
+      <br>Firebase
+    </td>
+   <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Laravel" />
+      <br>Docker
+    </td>
  </tr>
 </table>
-<br><br>
+<br>
 </div>
-## Tools and Technologies I know
-<p align="left"> 
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<br />
-
 
 ## GitHub Stats
 [![committers.top badge](https://user-badge.committers.top/bangladesh/seo-asif.svg)](https://user-badge.committers.top/bangladesh/seo-asif)
@@ -173,7 +169,6 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seo-asif&show_icons=true&locale=en&theme=transparent" alt="seo-asif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seo-asif" alt="seo-asif" /></p>
-
 
 ## Github Trophy
 
