@@ -27,14 +27,14 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 
 
 ## Connect With Me:
-<a target="_blank" href="https://www.linkedin.com/in/asifmosharraf/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
-<a target="_blank" href="mailto:asif064@gmail.com"><img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" style="width: 50px" /></a>
+<a target="_blank" href="mailto:asif064@gmail.com"><img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" style="width: 30px" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/asifmosharraf/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px" /></a>
 
 
 
 
 
-<h2>My stack :man_technologist:</h2>
+<h2>Language & Technologies I follow :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
