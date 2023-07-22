@@ -41,8 +41,10 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><br>JavaScript
+     </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -71,10 +73,10 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -113,9 +115,9 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="jQuery" />
       <br>Postman
     </td>
-   <td align="center" width="96">
+<!--    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-      <br>Prettier
+      <br>Prettier -->
   </tr>
  <tr>
     </td>
@@ -146,16 +148,16 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="PostgreSQL" />
       <br>Nginx
     </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Sass" />
+<!--   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialUI" />
       <br>Material UI
-    </td>
+    </td> -->
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Sass" />
       <br>Firebase
     </td>
    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
       <br>Docker
     </td>
  </tr>
