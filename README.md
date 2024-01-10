@@ -45,8 +45,6 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
       <br>PHP
@@ -74,10 +72,6 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-<!--     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
