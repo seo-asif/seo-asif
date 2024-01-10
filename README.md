@@ -38,7 +38,7 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
     </td>
      </td>
               <td align="center" width="96">
@@ -58,7 +58,7 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
       <br>NextJS
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
       <br>redux
     </td>
          <td align="center" width="96">
