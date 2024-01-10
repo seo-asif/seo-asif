@@ -58,15 +58,15 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
       <br>NextJS
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>redux
-    </td>
-         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Sass" /><br>TypeScript
-    </td>
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxtjs" />
+      <br>NuxtJS
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Laravel" />
       <br>Express
+    </td>
+   </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br>Redux
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -83,8 +83,8 @@ I'm a combination of Web & software developer and SEO expert, which is a very un
       <br>Git
     </td>
      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=alpinejs" width="48" height="48" alt="alpinejs" />
+      <br>AlpineJs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
